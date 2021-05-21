@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from typing import Type
 import requests
 import json
 import time
